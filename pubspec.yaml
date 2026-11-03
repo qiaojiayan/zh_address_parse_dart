@@ -1,0 +1,21 @@
+name: zh_address_parse_dart
+description: "中文地址智能解析插件，基于 https://github.com/ldwonday/zh-address-parse 使用 AI 翻译移植的 Flutter 版本：解析用户粘贴的收货地址，识别省市区、详细地址、姓名、手机号与邮编，实现类似京东/淘宝的地址粘贴识别能力。"
+version: 0.4.0
+homepage: https://github.com/diaojiayan/zh_address_parse_dart
+
+environment:
+  sdk: ^3.13.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+
+flutter:
+
